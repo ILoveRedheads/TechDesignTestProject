@@ -30,3 +30,6 @@ https://russianfonts.org/fonts/lemonmilkrus-by-lyajka-regular - шрифт
 Орк в левом углу - анимированный спрайт, который проигрывает анимацию при запуске сцены
 Текст на кнопке в левом верхнем углу - локализуемая строка с переводом на русский и английский языки.
 ![Alt text](Imagesforreadme/scenetwo.png)
+
+## Ссылка на рабочий билд игры:
+https://drive.google.com/drive/folders/1jUo2DSP539R--lZVnrt4M3lM2CqR_c_J?usp=share_link
